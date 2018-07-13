@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LaunchStoredProcedure.business.Interface\LaunchStoredProcedure.business.Interface.csproj" />
+    <ProjectReference Include="..\LaunchStoredProcedure.entities\LaunchStoredProcedure.entities.csproj" />
+    <ProjectReference Include="..\LaunchStoredProcedure.repository.Interface\LaunchStoredProcedure.repository.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

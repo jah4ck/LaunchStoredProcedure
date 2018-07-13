@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "LauchStoredProcedure.business/1.0.0": {
+        "dependencies": {
+          "LaunchStoredProcedure.business.Interface": "1.0.0",
+          "LaunchStoredProcedure.entities": "1.0.0",
+          "LaunchStoredProcedure.repository.Interface": "1.0.0"
+        },
+        "runtime": {
+          "LauchStoredProcedure.business.dll": {}
+        }
+      },
+      "LaunchStoredProcedure.business.Interface/1.0.0": {
+        "dependencies": {
+          "LaunchStoredProcedure.entities": "1.0.0"
+        },
+        "runtime": {
+          "LaunchStoredProcedure.business.Interface.dll": {}
+        }
+      },
+      "LaunchStoredProcedure.entities/1.0.0": {
+        "runtime": {
+          "LaunchStoredProcedure.entities.dll": {}
+        }
+      },
+      "LaunchStoredProcedure.repository.Interface/1.0.0": {
+        "dependencies": {
+          "LaunchStoredProcedure.entities": "1.0.0"
+        },
+        "runtime": {
+          "LaunchStoredProcedure.repository.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LauchStoredProcedure.business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LaunchStoredProcedure.business.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LaunchStoredProcedure.entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LaunchStoredProcedure.repository.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LauchStoredProcedure.business.deps.json
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LauchStoredProcedure.business.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LauchStoredProcedure.business.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\obj\Debug\netcoreapp2.0\LauchStoredProcedure.business.csprojAssemblyReference.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\obj\Debug\netcoreapp2.0\LauchStoredProcedure.business.csproj.CoreCompileInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\obj\Debug\netcoreapp2.0\LauchStoredProcedure.business.AssemblyInfoInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\obj\Debug\netcoreapp2.0\LauchStoredProcedure.business.AssemblyInfo.cs
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\obj\Debug\netcoreapp2.0\LauchStoredProcedure.business.csproj.CopyComplete
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\obj\Debug\netcoreapp2.0\LauchStoredProcedure.business.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\obj\Debug\netcoreapp2.0\LauchStoredProcedure.business.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.Interface.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LauchStoredProcedure.business\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.Interface.pdb

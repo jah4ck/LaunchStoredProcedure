@@ -1,0 +1,12 @@
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.deps.json
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.csprojAssemblyReference.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.csproj.CoreCompileInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.AssemblyInfoInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.AssemblyInfo.cs
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.csproj.CopyComplete
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.business.Interface\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.business.Interface.pdb

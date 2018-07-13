@@ -1,0 +1,9 @@
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.deps.json
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.csprojAssemblyReference.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.csproj.CoreCompileInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.AssemblyInfoInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.AssemblyInfo.cs
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.entities\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.pdb

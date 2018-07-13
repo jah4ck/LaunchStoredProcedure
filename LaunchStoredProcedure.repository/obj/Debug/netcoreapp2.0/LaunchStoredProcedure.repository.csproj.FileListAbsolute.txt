@@ -1,0 +1,14 @@
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.deps.json
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.csprojAssemblyReference.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.csproj.CoreCompileInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.AssemblyInfoInputs.cache
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.AssemblyInfo.cs
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.entities.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.csproj.CopyComplete
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\obj\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.pdb
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.Interface.dll
+c:\users\j.simon\source\repos\LaunchStoredProcedure\LaunchStoredProcedure.repository\bin\Debug\netcoreapp2.0\LaunchStoredProcedure.repository.Interface.pdb
